@@ -1,4 +1,9 @@
 site_name: Bon Air Quilt Co.
 nav:
   - Home index.md
-theme: readthedocs
+theme: 
+  name: material
+  palette: 
+    scheme: default
+    primary: black
+    accent: teal
